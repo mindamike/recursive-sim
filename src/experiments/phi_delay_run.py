@@ -1,0 +1,1 @@
+# Experiment with golden ratio delay

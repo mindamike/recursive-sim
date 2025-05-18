@@ -1,0 +1,4 @@
+delay_tau: 104.5
+gamma: 2.5
+threshold_theta: 0.3
+steps: 1000
