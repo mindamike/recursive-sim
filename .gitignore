@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Output folders
+results/
+logs/
+git add .gitignore
+git commit -m "Add Python .gitignore"
+git push
